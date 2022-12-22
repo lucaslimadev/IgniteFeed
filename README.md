@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img alt="ignite feed" src=".github/project.png" width="100%">
+  <img alt="ignite feed" src=".github/ignite.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
