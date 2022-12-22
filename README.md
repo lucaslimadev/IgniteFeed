@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node e NPM](https://nodejs.org/)
 - [Vite](https://vitejs.dev/)
-- [React](https://pt-br.reactjs.org/)
+- [ReactJs](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Phosphor Icons](https://phosphoricons.com/)
 - [Date-Fns](https://date-fns.org/)
@@ -29,7 +29,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Ignite Feed é um projeto que simula um feed de redes sociais, onde é possível fazer comentários nos posts, aplaudir e apagar um comentário.
 
-## 🔖 Layout
 
 ## :memo: Licença
 
